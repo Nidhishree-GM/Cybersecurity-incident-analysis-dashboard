@@ -1,0 +1,501 @@
+incident_id,company_name,incident_type,severity,department,affected_users,financial_loss_usd,resolution_time_hours,status,incident_date
+1,Torres-Alexander,Insider Threat,High,HR,441,16110,55,Investigating,2025-07-13
+2,"Norton, Sanders and Smith",SQL Injection,High,HR,386,69464,64,Resolved,2026-01-01
+3,Palmer-Tran,Phishing,Critical,HR,384,92024,40,Open,2025-05-26
+4,Allen-Ward,Insider Threat,Critical,IT,262,83928,9,Investigating,2026-01-07
+5,Cannon and Sons,DDoS,Critical,Finance,369,66317,35,Investigating,2025-10-05
+6,Nelson-Brown,SQL Injection,Critical,Operations,393,60615,10,Investigating,2025-11-12
+7,Woods-Wallace,Malware,Low,Operations,455,90497,27,Investigating,2025-06-13
+8,Campbell Group,DDoS,Medium,Finance,83,26712,12,Investigating,2026-03-13
+9,"Jones, Reed and Turner",Phishing,Critical,HR,264,77547,64,Open,2026-04-09
+10,Adams-Stephenson,Phishing,Medium,IT,19,60696,26,Investigating,2026-04-12
+11,Tate-Perez,SQL Injection,Low,Sales,68,71593,36,Resolved,2025-12-10
+12,Conner LLC,SQL Injection,Medium,Sales,116,66305,58,Investigating,2026-03-03
+13,Allen-Kelly,Insider Threat,Medium,IT,328,67555,55,Investigating,2025-06-02
+14,Herrera-Harris,Malware,Medium,Operations,413,66568,7,Resolved,2026-01-25
+15,"Bernard, Allen and Brown",DDoS,Critical,IT,38,49382,29,Resolved,2025-07-11
+16,"Spears, Cooper and Smith",Insider Threat,Critical,Finance,260,46287,11,Investigating,2025-07-30
+17,"Goodman, Wilson and Vincent",Phishing,Medium,HR,373,67784,50,Resolved,2025-10-21
+18,"Martin, Perry and Ramirez",DDoS,High,IT,319,25465,59,Resolved,2026-01-09
+19,Perez Inc,SQL Injection,Critical,HR,131,41543,17,Resolved,2026-01-23
+20,Gonzalez Group,SQL Injection,Critical,Finance,293,15778,70,Resolved,2026-02-11
+21,Gaines Ltd,SQL Injection,High,HR,328,63831,12,Resolved,2026-03-05
+22,Young-Armstrong,Malware,High,Operations,265,72383,56,Open,2025-12-15
+23,Norton-Hughes,Insider Threat,Low,HR,467,76461,49,Open,2026-01-06
+24,Phillips-Nguyen,Malware,Critical,Sales,18,40068,38,Investigating,2026-03-11
+25,Ramirez-Mendez,Insider Threat,Low,Operations,171,80931,60,Resolved,2026-01-11
+26,Salazar and Sons,DDoS,Low,Finance,213,9181,28,Open,2025-07-13
+27,Vazquez-Davis,Phishing,Critical,Operations,483,61243,25,Resolved,2025-11-01
+28,King and Sons,DDoS,Low,IT,122,10756,68,Open,2025-11-13
+29,"Brandt, Mullen and Calhoun",Insider Threat,Medium,HR,117,60158,33,Investigating,2025-11-22
+30,Manning Ltd,Ransomware,High,HR,344,55374,13,Investigating,2025-10-14
+31,"Castillo, Dixon and Harper",SQL Injection,Low,HR,338,90849,33,Investigating,2026-01-18
+32,Schroeder-Morgan,SQL Injection,Low,Sales,195,65957,11,Resolved,2025-07-21
+33,Martin-Goodwin,DDoS,Low,Operations,96,36810,63,Open,2026-03-20
+34,"Flowers, Clark and Sanders",Malware,Critical,Sales,124,42541,54,Open,2026-03-04
+35,Martinez-Coleman,Ransomware,Medium,IT,444,64015,21,Investigating,2025-09-23
+36,Johnson LLC,Phishing,Medium,Operations,417,87666,34,Open,2025-09-21
+37,Giles-Andrews,Insider Threat,Low,Finance,288,95059,71,Investigating,2025-06-02
+38,Hamilton and Sons,SQL Injection,Critical,IT,79,84982,2,Investigating,2025-12-03
+39,Moran-Gates,Ransomware,Critical,HR,491,59020,10,Resolved,2026-01-04
+40,Castillo Group,DDoS,High,Sales,378,84002,55,Open,2025-09-25
+41,Payne-Austin,DDoS,Critical,HR,301,17404,58,Resolved,2026-05-03
+42,"Foster, Greene and Vaughn",Ransomware,High,Sales,230,51682,34,Open,2025-06-03
+43,Wilson-Payne,SQL Injection,Low,HR,181,3460,68,Open,2026-02-21
+44,Finley LLC,DDoS,Low,HR,21,48753,69,Investigating,2025-06-20
+45,Becker-Mccarty,Ransomware,Medium,HR,415,68738,68,Resolved,2025-07-07
+46,Collins-Briggs,Ransomware,Critical,Sales,117,23050,27,Resolved,2025-10-12
+47,"Smith, Walsh and Kline",Ransomware,Critical,Operations,266,76464,61,Investigating,2025-07-08
+48,Schroeder Ltd,SQL Injection,Critical,HR,384,36756,11,Resolved,2026-04-10
+49,Chapman-Walker,Phishing,High,Finance,397,52255,1,Open,2025-08-22
+50,Ferguson and Sons,Phishing,Critical,IT,354,49994,28,Investigating,2025-09-27
+51,Hanson-Duke,Insider Threat,Critical,Operations,149,51260,59,Resolved,2025-07-23
+52,Knight-Williams,Phishing,Critical,Finance,10,95420,19,Resolved,2025-06-29
+53,"Rubio, Garcia and Miller",Ransomware,Low,HR,411,90386,55,Investigating,2025-06-20
+54,Dean Inc,Phishing,Medium,Sales,130,24007,34,Investigating,2026-04-22
+55,Hernandez-Meyer,Insider Threat,High,Operations,301,7996,56,Open,2026-02-20
+56,Bailey LLC,Phishing,High,Finance,353,73658,1,Investigating,2025-08-25
+57,"Patterson, Scott and Luna",Malware,Low,Operations,358,56875,68,Investigating,2025-10-08
+58,Davis-Thomas,SQL Injection,Critical,HR,301,79832,66,Resolved,2025-07-13
+59,Patel-Miller,Insider Threat,Medium,Sales,468,31979,57,Open,2025-06-11
+60,Nelson-Adams,Insider Threat,Low,Operations,435,23929,70,Investigating,2025-12-29
+61,"Martinez, Esparza and Williams",Insider Threat,Medium,Sales,281,52231,12,Investigating,2025-12-01
+62,Kent-Howard,SQL Injection,Medium,Sales,48,84220,24,Open,2025-09-07
+63,"Smith, Coffey and Wells",Insider Threat,High,Finance,340,79553,53,Resolved,2025-07-19
+64,Nelson-Davidson,Phishing,High,Finance,26,70989,38,Open,2025-05-27
+65,"Potts, Stone and Moody",Ransomware,High,Sales,59,61428,14,Open,2026-02-27
+66,Walters-Young,Phishing,Low,HR,290,62952,34,Investigating,2026-01-23
+67,"Miller, Thomas and Stewart",Malware,High,Operations,259,73431,9,Resolved,2025-12-16
+68,Neal PLC,Insider Threat,Medium,Sales,193,88272,14,Resolved,2025-06-26
+69,"Long, Palmer and Nguyen",DDoS,Low,HR,67,61956,17,Resolved,2026-03-09
+70,Leonard Group,SQL Injection,Low,Sales,46,35323,24,Investigating,2026-04-19
+71,"Barrett, Garrett and Johnson",Ransomware,Critical,Finance,250,64589,47,Investigating,2025-09-27
+72,Kim-Craig,Ransomware,High,IT,276,65850,31,Investigating,2025-08-16
+73,Welch Ltd,Malware,Critical,Operations,314,18158,5,Open,2025-08-01
+74,"Rivera, Thomas and Maddox",Insider Threat,Critical,Sales,47,19615,13,Resolved,2026-04-24
+75,Rodriguez-Smith,DDoS,Low,HR,234,43061,52,Investigating,2025-12-04
+76,Perez LLC,Insider Threat,Critical,IT,497,54916,63,Investigating,2025-05-14
+77,Rocha-Murray,Ransomware,Critical,Finance,459,15039,27,Resolved,2025-07-09
+78,Price-Mendoza,Ransomware,Critical,Sales,203,66999,67,Investigating,2026-01-30
+79,"Mcdowell, Hernandez and Brown",Malware,High,HR,289,53476,33,Investigating,2026-03-09
+80,"Jones, Brooks and Rodriguez",DDoS,High,IT,369,92195,16,Investigating,2026-03-31
+81,Dillon Ltd,Phishing,High,Finance,331,72576,59,Open,2026-03-10
+82,Riley PLC,Insider Threat,Medium,HR,64,59150,38,Investigating,2026-01-11
+83,Sanford Inc,Ransomware,Low,Finance,57,77697,26,Investigating,2026-03-09
+84,Curry Ltd,Phishing,Low,HR,140,45059,3,Resolved,2026-01-19
+85,"Hardy, Molina and Donaldson",DDoS,Medium,HR,129,52176,67,Investigating,2025-09-10
+86,"Jones, Johnson and Fuller",Phishing,Critical,Sales,362,2419,61,Open,2026-03-09
+87,Lee Inc,Ransomware,High,Operations,266,52218,60,Resolved,2026-04-06
+88,"Johnson, Martinez and Walker",Malware,Low,HR,80,23745,57,Open,2026-04-16
+89,Sandoval Ltd,Malware,Low,IT,306,22756,69,Investigating,2025-10-18
+90,"Butler, Frost and Johnson",Ransomware,Medium,Sales,62,84281,44,Resolved,2026-01-12
+91,Coleman and Sons,Phishing,Medium,Operations,19,83365,52,Open,2025-12-01
+92,"Johnson, Solomon and Sanders",DDoS,Medium,HR,215,9907,2,Investigating,2025-10-16
+93,Hughes-Carter,Malware,High,Operations,143,16410,26,Resolved,2025-11-01
+94,"Rogers, Cooper and Bryant",SQL Injection,Medium,Sales,454,15344,29,Investigating,2025-10-18
+95,"Scott, Weiss and Velasquez",Phishing,High,Sales,406,30550,59,Resolved,2025-10-08
+96,Reid-Vazquez,SQL Injection,High,IT,359,9089,62,Resolved,2026-02-02
+97,"Donaldson, Garner and Edwards",Insider Threat,High,Finance,315,97969,72,Resolved,2025-12-08
+98,"Barnes, Kelly and Arnold",Insider Threat,Low,Operations,89,75063,13,Resolved,2026-04-08
+99,"Mendoza, Peters and Herman",Insider Threat,Critical,HR,269,24753,46,Open,2026-02-01
+100,Davis LLC,SQL Injection,Medium,IT,498,16767,69,Open,2025-07-14
+101,Moore-Thomas,Insider Threat,Low,Operations,409,69259,34,Open,2025-05-30
+102,"Adkins, Long and Hernandez",Phishing,Low,Finance,366,21237,37,Open,2025-12-10
+103,Sanchez PLC,Malware,Medium,Operations,173,32059,26,Investigating,2025-07-02
+104,Duran-Brown,SQL Injection,Low,Operations,235,72153,30,Resolved,2026-04-03
+105,"Harris, Rodriguez and Hudson",SQL Injection,Critical,Sales,488,82605,33,Resolved,2026-01-26
+106,Torres and Sons,SQL Injection,High,Finance,62,42329,22,Open,2025-06-03
+107,"Trevino, Perkins and Allen",Ransomware,Low,Operations,291,74206,53,Resolved,2026-02-16
+108,Byrd-Lee,SQL Injection,High,Finance,213,20497,20,Resolved,2025-09-03
+109,Clark PLC,DDoS,Low,HR,473,82696,6,Resolved,2025-07-16
+110,"Thomas, Parks and Lloyd",SQL Injection,Medium,Sales,441,65442,61,Investigating,2025-10-25
+111,"Hicks, Cook and Wallace",Malware,Low,Finance,215,78433,37,Open,2025-08-22
+112,Clark-Garcia,Insider Threat,Medium,Sales,260,58676,42,Investigating,2025-07-16
+113,Smith-Anderson,SQL Injection,Low,Sales,488,74872,46,Open,2026-01-02
+114,"Bond, White and Thompson",Insider Threat,Low,HR,410,35804,58,Open,2025-09-17
+115,"Willis, Martinez and Patrick",Insider Threat,High,Operations,483,17410,44,Resolved,2025-10-13
+116,Rodriguez-Thompson,Phishing,Medium,HR,91,43704,70,Investigating,2025-10-06
+117,Fox Ltd,Malware,Low,HR,223,52626,49,Open,2025-07-19
+118,"Soto, Valencia and Williams",Malware,Low,HR,258,74271,68,Open,2026-01-20
+119,"Bryant, Miranda and Collins",Insider Threat,Low,Operations,436,66011,62,Investigating,2026-04-26
+120,Thompson Ltd,Insider Threat,Critical,HR,498,86890,8,Investigating,2026-03-28
+121,"Jordan, Jones and Mendoza",Phishing,High,IT,368,31106,42,Resolved,2025-08-28
+122,Mata Ltd,Phishing,Medium,HR,215,31820,2,Investigating,2026-02-11
+123,Fletcher Group,Ransomware,Critical,Finance,318,8142,12,Open,2025-09-03
+124,"Rogers, Boyle and Daugherty",DDoS,High,Sales,159,48508,57,Investigating,2025-10-13
+125,Webb PLC,SQL Injection,Critical,Operations,82,71386,56,Investigating,2026-02-20
+126,"Leach, Horn and Hodge",Ransomware,Critical,Sales,395,48752,15,Open,2025-10-30
+127,Gomez Ltd,Phishing,High,Sales,468,39165,8,Resolved,2026-02-24
+128,Wilkinson PLC,Ransomware,Critical,HR,445,45041,72,Open,2025-10-21
+129,Alvarez-Gonzales,Phishing,Critical,Sales,220,43161,18,Open,2025-09-16
+130,"Brock, Donaldson and Miller",DDoS,High,Finance,85,51584,62,Open,2025-05-24
+131,Rojas-Camacho,Malware,Medium,Operations,436,23124,32,Investigating,2025-09-27
+132,"Martin, Cox and Gibson",Insider Threat,Critical,Finance,302,35507,53,Resolved,2026-03-15
+133,Rodriguez Group,DDoS,Medium,Sales,464,24319,38,Open,2025-12-15
+134,Cooper-Austin,Ransomware,Critical,Sales,238,32947,65,Open,2025-09-16
+135,"Tapia, Odonnell and Barrett",SQL Injection,High,IT,309,55195,45,Investigating,2025-09-26
+136,"Torres, Snow and Horn",DDoS,Medium,Operations,70,64483,7,Investigating,2026-04-15
+137,Simmons-Nelson,Malware,Medium,Operations,403,94889,7,Investigating,2025-05-21
+138,Case-Fisher,Insider Threat,Critical,Operations,291,56549,56,Investigating,2025-07-07
+139,Thompson-Jones,Malware,Critical,HR,130,29541,58,Investigating,2025-07-30
+140,Gibson Inc,Insider Threat,Medium,Finance,426,18283,31,Investigating,2025-11-25
+141,Sullivan-Williams,SQL Injection,High,Sales,236,85760,47,Investigating,2025-05-31
+142,"Garcia, Ross and Taylor",Ransomware,Low,Finance,473,44547,45,Open,2026-02-16
+143,Hunt and Sons,Insider Threat,Medium,Finance,30,5777,66,Resolved,2025-11-10
+144,"Macias, Thomas and Williams",Ransomware,High,IT,441,25045,18,Investigating,2026-01-31
+145,Brown Ltd,DDoS,High,IT,245,12184,35,Investigating,2025-05-09
+146,George Ltd,DDoS,High,Sales,220,36467,52,Resolved,2025-10-05
+147,Bennett Ltd,Phishing,High,Operations,478,38355,72,Resolved,2025-07-24
+148,"Perez, Diaz and Villanueva",Phishing,Critical,IT,361,52834,25,Investigating,2025-09-20
+149,"Wyatt, Cooper and Oliver",Ransomware,Low,Sales,121,64029,13,Open,2025-11-08
+150,Young Group,Ransomware,Low,Operations,53,93814,6,Resolved,2026-01-25
+151,Harris-Stanton,DDoS,High,HR,46,20149,10,Resolved,2025-08-10
+152,Gibson LLC,Ransomware,High,Finance,300,89112,5,Open,2025-05-22
+153,Pratt-Randolph,DDoS,Medium,Finance,345,70609,65,Investigating,2026-03-07
+154,"Wiley, Ramirez and Herrera",Malware,Critical,IT,477,53672,15,Open,2026-05-04
+155,Horne and Sons,Insider Threat,Critical,HR,457,25234,9,Open,2025-05-27
+156,Hall-Perez,Insider Threat,Low,Operations,179,56378,47,Investigating,2026-01-03
+157,Humphrey and Sons,Phishing,Critical,Finance,476,69627,25,Resolved,2026-01-07
+158,Sanchez-Roberts,Malware,Medium,IT,493,97215,72,Resolved,2026-02-19
+159,Miller Inc,Ransomware,Low,IT,53,36202,24,Resolved,2026-04-08
+160,"Bradshaw, Carr and Brewer",Phishing,Low,Finance,157,95320,44,Investigating,2026-04-01
+161,Martin Inc,Insider Threat,Medium,Sales,341,48262,58,Investigating,2025-05-28
+162,Jackson Group,Phishing,Critical,HR,53,10053,32,Open,2025-12-18
+163,"Cook, Dixon and Young",SQL Injection,Low,Operations,249,50500,35,Open,2025-11-09
+164,Massey and Sons,Insider Threat,Critical,HR,40,47335,18,Investigating,2026-03-03
+165,"Pearson, Green and Johnson",Phishing,High,HR,107,82849,5,Investigating,2025-12-07
+166,Cunningham-Lynch,SQL Injection,Medium,Operations,117,72171,65,Investigating,2025-07-27
+167,Copeland-Lopez,Malware,Medium,Sales,284,55158,30,Open,2025-11-01
+168,Castillo-Garcia,Ransomware,High,Finance,322,21939,38,Open,2025-07-25
+169,Cowan-Garcia,DDoS,Critical,IT,270,7349,17,Resolved,2025-12-19
+170,"Smith, Rodriguez and Owens",Phishing,Critical,HR,476,32006,37,Open,2025-10-10
+171,Vaughan and Sons,Ransomware,Low,Finance,306,40267,69,Investigating,2025-05-28
+172,Reed Group,Insider Threat,Medium,HR,206,81554,68,Resolved,2025-09-24
+173,Morton-Robertson,Ransomware,Critical,HR,324,91362,45,Open,2025-11-18
+174,Miller Inc,Phishing,Low,IT,43,64748,15,Open,2025-12-24
+175,Gonzalez PLC,Ransomware,High,Finance,93,37588,20,Investigating,2026-02-10
+176,"Stewart, Swanson and Gentry",Phishing,High,Operations,16,7292,48,Open,2025-10-14
+177,"Clarke, Morris and Fowler",SQL Injection,Low,HR,69,81027,61,Open,2026-02-23
+178,Diaz Inc,DDoS,Medium,IT,107,77815,13,Open,2026-02-15
+179,"Moore, Wallace and Reyes",DDoS,High,Operations,265,93437,38,Open,2025-10-17
+180,Summers Inc,Ransomware,Low,HR,224,71665,63,Investigating,2025-08-20
+181,"Christensen, Barrera and Rodriguez",Malware,Low,Sales,98,64891,9,Investigating,2025-09-12
+182,Holmes PLC,Insider Threat,Critical,Sales,332,18770,15,Resolved,2025-06-22
+183,Wright Inc,Malware,Medium,Sales,259,15968,63,Open,2025-06-28
+184,"Adams, Stanley and Young",Malware,High,Finance,269,90988,33,Investigating,2025-05-17
+185,"Hall, Juarez and Lee",DDoS,Medium,Sales,185,6323,31,Open,2026-01-01
+186,"White, Gonzales and Reeves",SQL Injection,Critical,Sales,171,98106,32,Resolved,2025-06-17
+187,"Hughes, Washington and Sanchez",Phishing,Medium,HR,315,90691,47,Resolved,2025-06-24
+188,"Hamilton, Kelly and Davis",DDoS,Low,Sales,471,60234,44,Open,2025-12-03
+189,"Smith, Dickerson and Martinez",Insider Threat,Critical,IT,231,70344,60,Open,2026-02-04
+190,Acosta PLC,Ransomware,Critical,IT,199,23288,53,Open,2026-02-14
+191,"Rodriguez, Dodson and Russell",Insider Threat,Medium,HR,207,60718,67,Resolved,2025-12-25
+192,Lin-Huber,Insider Threat,Medium,HR,26,83961,72,Investigating,2025-09-13
+193,Smith Ltd,SQL Injection,Low,HR,438,97202,46,Investigating,2025-07-11
+194,Bradshaw Ltd,Insider Threat,High,HR,211,35176,28,Resolved,2026-01-31
+195,Adkins Ltd,Ransomware,Medium,Operations,314,44335,55,Open,2025-05-18
+196,Williams-Diaz,Phishing,High,Operations,195,34482,5,Investigating,2025-10-11
+197,"Miller, Williams and Collins",Ransomware,Low,IT,229,80020,29,Investigating,2025-11-23
+198,"Ryan, Moore and Dorsey",Ransomware,Medium,Operations,404,44814,67,Resolved,2025-07-21
+199,French Inc,Ransomware,Low,Finance,125,29343,62,Resolved,2025-07-19
+200,Ross LLC,SQL Injection,Critical,IT,335,95037,18,Investigating,2025-06-28
+201,Morgan-Berry,SQL Injection,High,IT,482,46408,18,Investigating,2025-11-06
+202,Perez Group,SQL Injection,High,HR,45,79380,69,Investigating,2025-09-25
+203,"Edwards, Martinez and Mata",SQL Injection,Critical,Operations,480,84043,52,Investigating,2026-04-01
+204,Paul-Williams,Phishing,Medium,IT,233,67623,68,Open,2026-02-20
+205,"Thomas, Washington and Chang",SQL Injection,High,HR,497,98154,22,Investigating,2026-02-16
+206,Rice-Nichols,Phishing,Low,Finance,292,11014,10,Open,2026-01-29
+207,"Bolton, Monroe and James",Malware,High,IT,199,37747,29,Investigating,2025-05-31
+208,Rose Group,Insider Threat,Critical,IT,38,47315,22,Resolved,2025-11-15
+209,Ross Ltd,SQL Injection,Low,Operations,289,4586,57,Open,2026-01-28
+210,Nguyen and Sons,Insider Threat,High,HR,355,55088,45,Open,2026-02-16
+211,Wyatt Inc,DDoS,Critical,Operations,269,53300,29,Resolved,2026-03-25
+212,Carpenter-Dougherty,Insider Threat,Medium,Finance,490,52584,21,Open,2025-11-11
+213,Gonzalez Group,Ransomware,Critical,IT,188,27583,63,Open,2025-09-06
+214,Beasley and Sons,Ransomware,Low,Finance,316,7902,20,Open,2025-07-23
+215,Stanley-Ryan,Ransomware,Low,HR,278,28532,3,Investigating,2025-06-18
+216,Underwood LLC,Insider Threat,High,IT,12,79959,43,Resolved,2026-03-16
+217,Harmon and Sons,SQL Injection,High,Sales,407,11495,18,Open,2026-04-15
+218,Butler and Sons,DDoS,Critical,Finance,66,85948,64,Resolved,2025-09-28
+219,"Garcia, Washington and Leonard",Insider Threat,Low,Finance,275,89484,30,Open,2026-03-10
+220,Ward-Miller,Insider Threat,High,Sales,297,70907,24,Open,2025-06-07
+221,Butler LLC,DDoS,Low,HR,483,18357,65,Open,2026-03-17
+222,Lee Group,Malware,Critical,Finance,205,93962,32,Resolved,2025-12-24
+223,Kim-Parker,Ransomware,Medium,Finance,45,99363,18,Investigating,2025-10-07
+224,Ruiz-White,DDoS,High,Finance,119,53782,25,Resolved,2025-12-13
+225,Foley PLC,Malware,Critical,Finance,120,64502,5,Open,2025-09-02
+226,"Scott, Thomas and Flores",DDoS,Critical,Finance,496,86570,41,Investigating,2025-10-21
+227,"Gonzalez, Riley and Phillips",Malware,High,IT,46,88552,9,Open,2026-02-03
+228,Hart-Lin,DDoS,Medium,Sales,320,16908,25,Resolved,2025-11-24
+229,Rogers Ltd,Ransomware,Critical,Sales,309,33409,51,Open,2026-01-17
+230,"Huffman, Ramsey and Lopez",Ransomware,Critical,IT,145,48116,48,Investigating,2025-10-09
+231,Bass-Morris,DDoS,Critical,Sales,182,94215,56,Investigating,2025-12-17
+232,Reyes Group,Phishing,Low,Finance,331,5031,38,Investigating,2026-01-08
+233,Ruiz-Smith,Malware,High,Finance,42,13303,42,Open,2025-09-10
+234,Barnes PLC,DDoS,Low,IT,432,69567,28,Resolved,2025-10-27
+235,Cook-Rhodes,SQL Injection,Critical,Operations,35,29074,5,Open,2026-02-24
+236,Gomez Group,Malware,Critical,IT,310,59088,60,Resolved,2025-11-01
+237,"Bowen, Gonzales and Bowers",Insider Threat,High,Finance,444,65991,1,Resolved,2025-12-27
+238,Briggs-Bowman,Malware,High,Operations,21,72440,38,Open,2025-09-29
+239,Roberts-Sullivan,Phishing,Critical,Sales,396,49880,57,Resolved,2025-06-23
+240,Alexander Ltd,Malware,Medium,HR,182,76035,21,Open,2025-08-05
+241,Knapp-Rivera,Phishing,High,Finance,117,89366,47,Open,2026-02-25
+242,"Williams, Roberson and Campbell",Insider Threat,Medium,Operations,244,39526,28,Investigating,2026-03-18
+243,Gilbert-Brown,Ransomware,Low,Sales,305,18919,14,Resolved,2025-05-26
+244,Douglas-Taylor,DDoS,Medium,Finance,445,74023,38,Investigating,2026-02-01
+245,Ruiz-Doyle,SQL Injection,Medium,Operations,412,59377,26,Investigating,2025-08-31
+246,Green PLC,Phishing,Medium,Operations,134,70526,12,Investigating,2025-11-13
+247,Mosley-Mendez,SQL Injection,Medium,Operations,318,33482,54,Investigating,2026-03-26
+248,"Santiago, Zimmerman and Delacruz",Insider Threat,High,Sales,431,21108,30,Resolved,2025-12-06
+249,Fowler and Sons,Malware,High,Operations,261,74132,68,Investigating,2025-10-21
+250,"Williams, Smith and Smith",SQL Injection,High,Finance,293,7892,38,Resolved,2025-12-22
+251,Contreras Group,Malware,Low,Sales,9,98059,54,Investigating,2026-02-20
+252,Adams-Smith,DDoS,High,IT,469,98522,36,Resolved,2025-10-04
+253,"Frye, Smith and Ellis",Phishing,Critical,IT,42,65062,49,Open,2026-04-14
+254,"Price, Morgan and Fields",DDoS,Medium,Operations,141,98502,29,Investigating,2025-06-21
+255,Alexander-Lopez,DDoS,Low,HR,384,68037,66,Resolved,2025-10-17
+256,Garcia and Sons,Phishing,Medium,Finance,447,46699,38,Investigating,2025-09-24
+257,Reed-Gibson,Ransomware,Low,HR,364,34024,42,Resolved,2025-09-27
+258,Garcia Inc,DDoS,Low,IT,52,41034,45,Resolved,2025-08-07
+259,Williams-Rodriguez,Malware,High,IT,93,32578,17,Investigating,2025-12-05
+260,Buckley and Sons,Ransomware,Critical,Sales,75,7835,55,Resolved,2025-12-05
+261,Wiley LLC,DDoS,Low,Operations,428,69225,3,Resolved,2025-08-18
+262,"Boyd, Duffy and Wise",DDoS,High,HR,499,76961,26,Investigating,2026-01-20
+263,"Bruce, Nelson and Thomas",Malware,Critical,Sales,177,61653,46,Resolved,2026-01-24
+264,Young-Ritter,Malware,Critical,IT,30,9808,53,Investigating,2025-08-27
+265,Cabrera-Gomez,Phishing,Medium,Sales,427,28991,13,Resolved,2026-03-24
+266,"Arroyo, Jackson and Davis",Insider Threat,Medium,Finance,241,61551,25,Investigating,2026-03-04
+267,Rodriguez-Rush,Ransomware,Medium,Operations,350,23704,12,Investigating,2025-11-16
+268,Gray Ltd,Insider Threat,Low,HR,406,61379,20,Open,2025-08-30
+269,Brown-Richardson,Phishing,Low,Operations,419,8131,23,Open,2025-12-03
+270,"Mccormick, Duncan and Howard",Malware,Medium,Operations,353,17639,54,Open,2026-02-11
+271,Scott Ltd,Phishing,High,Operations,279,51361,45,Investigating,2025-12-09
+272,Rivera-Torres,Insider Threat,High,HR,132,73631,32,Resolved,2026-01-21
+273,"Kelly, Vasquez and Kennedy",Insider Threat,Low,Finance,460,42735,23,Open,2026-03-22
+274,"Shaw, Conrad and Wright",Ransomware,Low,HR,170,49241,45,Resolved,2025-06-23
+275,"Gibson, Garcia and Gonzales",Phishing,Critical,Sales,317,62508,56,Open,2025-05-09
+276,Cox PLC,Insider Threat,Low,Sales,483,43058,53,Resolved,2025-10-01
+277,Byrd Ltd,SQL Injection,High,IT,437,28820,46,Open,2025-07-31
+278,"Drake, Figueroa and Anderson",Ransomware,Critical,Sales,158,30729,45,Investigating,2025-07-17
+279,"Barr, Banks and Lee",Malware,High,Sales,387,34036,18,Open,2025-10-19
+280,Barnes PLC,Insider Threat,Medium,Operations,405,13717,52,Investigating,2025-08-06
+281,Bruce PLC,Malware,Low,Finance,495,71095,4,Resolved,2026-03-22
+282,Roy Inc,Malware,Critical,Sales,308,92940,44,Resolved,2025-11-11
+283,Madden Ltd,Malware,Low,HR,481,45656,64,Investigating,2026-02-23
+284,"Myers, Morales and Gardner",DDoS,Medium,Operations,341,43119,2,Resolved,2025-09-19
+285,Daniels LLC,Insider Threat,Low,HR,497,38624,28,Investigating,2025-06-16
+286,Hendricks-Zuniga,Insider Threat,High,Finance,80,85492,36,Open,2025-08-27
+287,"Nichols, Brooks and Haas",Malware,High,Sales,164,97125,31,Investigating,2025-05-09
+288,Martinez-Mitchell,DDoS,Low,HR,7,73380,38,Investigating,2026-03-11
+289,Gutierrez and Sons,Insider Threat,Low,Operations,283,53691,34,Investigating,2026-01-06
+290,"Bennett, Lee and Mullins",SQL Injection,Critical,Operations,335,39226,1,Resolved,2026-02-16
+291,Robinson PLC,DDoS,Low,Operations,82,94644,31,Resolved,2026-02-08
+292,Jackson-Schwartz,Insider Threat,Critical,IT,301,30035,16,Resolved,2025-11-26
+293,Villarreal-Wade,Ransomware,Low,IT,73,3122,67,Open,2025-08-16
+294,Clayton Inc,Phishing,Critical,HR,498,5583,46,Resolved,2025-06-13
+295,"Holmes, Barr and Wilson",Phishing,Low,HR,258,22195,3,Investigating,2025-06-26
+296,Martin LLC,Insider Threat,Low,Finance,382,19824,47,Resolved,2025-08-29
+297,"Harper, Calderon and Gordon",SQL Injection,Critical,HR,348,3961,31,Open,2025-05-20
+298,"Buchanan, Shields and Lawrence",Phishing,Medium,Sales,131,6434,17,Open,2025-12-13
+299,"Ball, Zimmerman and Warren",DDoS,Medium,Operations,186,56218,8,Resolved,2026-01-25
+300,"Williams, Stevens and Cook",DDoS,Critical,Sales,78,95031,49,Open,2025-08-31
+301,Goodwin Inc,Phishing,Low,Operations,442,37508,17,Resolved,2026-04-01
+302,"Gonzalez, Hammond and Boyd",Ransomware,Low,Sales,290,57128,22,Open,2025-06-19
+303,"Harris, Foley and Ramirez",Insider Threat,Critical,Operations,8,48078,59,Investigating,2026-02-15
+304,"Vasquez, Gonzalez and Williams",Ransomware,Medium,IT,271,97003,65,Investigating,2026-04-20
+305,Morris PLC,Ransomware,High,HR,316,12900,6,Investigating,2025-06-26
+306,"Lopez, Duncan and Roberts",SQL Injection,Critical,Sales,291,35231,41,Investigating,2025-11-19
+307,Calhoun-Bowman,Phishing,High,Operations,160,79219,17,Open,2025-10-29
+308,"Price, Baker and Greene",Insider Threat,High,IT,83,31813,53,Resolved,2026-04-20
+309,"White, Miller and Nelson",Ransomware,Critical,HR,142,97946,4,Resolved,2025-09-09
+310,Lowery and Sons,Ransomware,Medium,Operations,224,34448,61,Resolved,2025-10-18
+311,Callahan Inc,Phishing,High,HR,404,45035,47,Resolved,2026-02-15
+312,Riley-Ortiz,Insider Threat,Medium,IT,92,89333,50,Investigating,2025-08-26
+313,Dodson-Riddle,Malware,High,Finance,385,5545,65,Resolved,2025-06-23
+314,Moore-Gregory,Insider Threat,Critical,HR,312,9573,56,Investigating,2025-11-05
+315,Newton-Collins,Insider Threat,Low,HR,404,75228,15,Investigating,2025-06-02
+316,Baker-Wade,Phishing,High,Sales,208,41150,29,Open,2025-12-25
+317,Mcintyre-Robbins,Malware,Low,HR,107,6004,44,Resolved,2026-01-19
+318,Myers LLC,Malware,Medium,HR,135,67924,62,Investigating,2026-04-26
+319,Green-Kaufman,SQL Injection,Medium,IT,396,47128,70,Resolved,2026-01-25
+320,Smith-Oliver,SQL Injection,High,IT,447,28534,37,Resolved,2026-01-31
+321,Lawson-Ellison,Phishing,Critical,Operations,219,28607,68,Open,2025-09-18
+322,Morris and Sons,Phishing,Critical,Finance,286,64291,12,Resolved,2025-11-29
+323,Foster Inc,Ransomware,Critical,HR,271,14571,54,Resolved,2025-10-06
+324,Smith Group,Insider Threat,High,Finance,191,42775,53,Open,2026-04-19
+325,Schmidt-Wallace,DDoS,Critical,Finance,99,12029,55,Investigating,2025-08-18
+326,Mcdowell-Mcdaniel,Ransomware,Critical,Finance,369,99715,43,Resolved,2025-08-17
+327,Webster-Jacobs,Ransomware,Medium,IT,479,55410,18,Resolved,2026-03-06
+328,Mclean and Sons,Ransomware,Critical,Sales,413,3288,64,Investigating,2026-01-11
+329,Miller-Nelson,Phishing,Medium,Sales,373,74278,58,Open,2025-05-17
+330,Hanson-Russell,Ransomware,Low,IT,20,67318,11,Investigating,2025-07-24
+331,Lane and Sons,Ransomware,Low,IT,90,7801,69,Investigating,2026-01-11
+332,"Melton, Greer and Dunn",Insider Threat,High,Sales,399,42139,5,Resolved,2026-03-12
+333,Cross-Smith,DDoS,High,IT,458,42465,62,Resolved,2026-04-07
+334,Ross-Davis,SQL Injection,Critical,Finance,345,58591,56,Investigating,2025-09-16
+335,Brooks PLC,Ransomware,Medium,Operations,383,23977,48,Resolved,2025-05-20
+336,Russell-James,SQL Injection,Critical,Operations,256,92227,62,Investigating,2026-03-03
+337,Johnson-Ruiz,Phishing,High,Operations,76,30083,51,Investigating,2025-09-03
+338,"Lopez, Olson and May",DDoS,Low,HR,366,46037,46,Open,2026-01-10
+339,Erickson Inc,DDoS,Critical,HR,483,22456,18,Open,2026-02-10
+340,Burke Inc,Malware,High,Sales,479,98586,61,Resolved,2025-09-23
+341,Phillips Ltd,Ransomware,Medium,Sales,452,34711,30,Open,2026-03-17
+342,Chapman PLC,DDoS,Low,Finance,24,51832,35,Investigating,2025-10-10
+343,"Howard, Cunningham and Martinez",Phishing,Medium,HR,382,62027,58,Open,2025-12-05
+344,Haas-Frank,Ransomware,High,Finance,170,13547,34,Open,2025-06-04
+345,Buckley LLC,SQL Injection,Medium,HR,187,58697,44,Investigating,2026-02-05
+346,"Porter, Nolan and Griffin",Ransomware,Medium,Finance,168,6139,17,Resolved,2026-01-25
+347,"Martin, Olson and Lopez",Phishing,Low,Sales,317,58312,37,Investigating,2026-04-05
+348,Mann Group,Insider Threat,Low,Finance,136,29780,43,Resolved,2025-12-08
+349,"Watson, Davis and Goodman",Insider Threat,High,Finance,436,24150,67,Resolved,2025-12-19
+350,Hall PLC,DDoS,Low,Finance,257,6940,17,Investigating,2025-09-01
+351,Mann Inc,SQL Injection,Low,IT,38,80109,20,Resolved,2025-06-30
+352,"Brown, White and Jacobs",Phishing,Critical,Operations,156,26566,57,Investigating,2025-06-29
+353,"Nelson, Riley and Bridges",Phishing,Low,Operations,330,67145,18,Resolved,2026-04-29
+354,Mayer-Garcia,Insider Threat,Low,Operations,78,55504,67,Investigating,2026-04-21
+355,Cooper LLC,SQL Injection,Critical,IT,477,41422,62,Resolved,2026-04-09
+356,Ayala Group,SQL Injection,Critical,HR,347,51599,57,Resolved,2025-07-15
+357,"Howard, Moran and Garza",Phishing,Medium,HR,51,12451,41,Open,2025-06-27
+358,Ball-Juarez,Phishing,Medium,HR,423,17778,36,Open,2025-08-18
+359,Castillo Group,Ransomware,Medium,IT,138,45350,34,Investigating,2025-10-05
+360,"Farrell, Lane and Rodriguez",Ransomware,High,Finance,13,46662,45,Resolved,2025-11-25
+361,"Medina, Hill and White",Phishing,Critical,Operations,478,26229,19,Open,2026-01-22
+362,"Rollins, Frost and Martinez",SQL Injection,Critical,Operations,319,75105,71,Open,2026-02-02
+363,Cowan and Sons,Insider Threat,High,Sales,433,58659,64,Open,2025-11-09
+364,"Hall, Lee and Newman",DDoS,Low,Finance,425,47318,68,Open,2025-08-01
+365,"Mayer, Mercado and Kramer",DDoS,Low,IT,33,66378,26,Resolved,2026-02-19
+366,"Lowery, Lyons and Lee",Malware,Critical,HR,212,71927,5,Open,2025-09-02
+367,Salas Inc,DDoS,Low,Sales,274,76726,50,Investigating,2026-04-25
+368,"Burke, Hammond and Walker",Phishing,High,Operations,214,59649,34,Resolved,2025-06-03
+369,"Allen, Parsons and Collins",SQL Injection,Critical,IT,139,72879,52,Investigating,2025-05-12
+370,Holmes PLC,DDoS,High,Sales,403,68804,14,Investigating,2026-02-18
+371,Lopez-Chung,DDoS,High,Sales,340,76347,18,Resolved,2025-11-11
+372,Smith LLC,Ransomware,Critical,Operations,44,57634,26,Investigating,2025-11-28
+373,Gilbert-Howard,Malware,Critical,Operations,386,71589,13,Open,2025-08-04
+374,"Schmitt, Perry and Francis",Insider Threat,Low,Operations,92,72970,56,Investigating,2026-02-05
+375,Lane-Garza,SQL Injection,High,Finance,168,74392,71,Open,2025-05-13
+376,Peterson Inc,Insider Threat,Medium,Operations,355,2392,29,Open,2025-10-03
+377,Atkinson-Gonzalez,Ransomware,Medium,Finance,34,16584,19,Resolved,2025-12-18
+378,Foley-Hart,DDoS,Critical,Finance,431,40662,44,Investigating,2025-09-26
+379,"Campbell, Lopez and Day",SQL Injection,Low,Operations,452,42652,20,Investigating,2026-01-24
+380,Duncan Ltd,DDoS,Critical,Finance,244,7236,70,Resolved,2025-05-14
+381,Waters-Morgan,Ransomware,Critical,HR,326,50579,10,Investigating,2026-01-05
+382,"Anderson, Patel and Hughes",Phishing,Critical,Finance,253,75587,19,Open,2025-06-29
+383,Owen-Patrick,Insider Threat,Medium,IT,86,33260,67,Resolved,2026-02-24
+384,White LLC,Insider Threat,High,Sales,187,70111,17,Resolved,2025-10-21
+385,"Case, Henry and Douglas",Malware,High,HR,14,29553,72,Open,2025-05-25
+386,Harper-Hatfield,DDoS,High,Operations,255,65240,40,Open,2025-11-25
+387,"Anderson, Lawson and Sanders",SQL Injection,Critical,Operations,405,48393,57,Investigating,2025-08-02
+388,"Thompson, Johnson and Williams",DDoS,Medium,Sales,398,90327,11,Open,2025-07-24
+389,"Morton, Pope and Lewis",Malware,Medium,Sales,394,4757,65,Investigating,2025-07-10
+390,"Mack, Turner and Howard",Insider Threat,Low,Finance,109,50838,44,Resolved,2026-01-05
+391,"Boone, Nichols and Robertson",DDoS,Medium,HR,491,81992,37,Investigating,2025-08-20
+392,Foster-Davis,Phishing,Critical,Operations,80,78572,68,Investigating,2026-05-05
+393,"Doyle, Beltran and White",Phishing,Low,Operations,380,18164,15,Investigating,2026-04-06
+394,Green-Weeks,Phishing,Low,Sales,200,79171,47,Open,2025-10-09
+395,"Chan, Roberts and Cunningham",SQL Injection,Low,Finance,177,11835,47,Resolved,2025-10-04
+396,"Benjamin, Jones and Kennedy",Ransomware,High,Operations,111,48362,25,Open,2025-12-12
+397,"Garner, Garcia and Gonzalez",Insider Threat,High,IT,383,63668,56,Resolved,2025-09-03
+398,"Todd, Thompson and Black",Ransomware,Low,Finance,25,73020,62,Resolved,2025-06-24
+399,Jones Ltd,Malware,High,Operations,475,49624,10,Resolved,2025-12-17
+400,"Chavez, Robinson and Smith",DDoS,Low,IT,166,93658,29,Open,2025-07-20
+401,"Lewis, Garcia and Spencer",Ransomware,Low,Operations,325,24956,72,Open,2025-09-29
+402,Rose LLC,Malware,Critical,IT,53,4645,68,Investigating,2025-11-11
+403,Smith-Decker,Insider Threat,High,Operations,193,49489,72,Investigating,2026-03-29
+404,Peck PLC,Ransomware,Low,IT,240,34685,23,Resolved,2026-03-13
+405,"Hansen, Hall and Ramos",Insider Threat,Medium,IT,75,14301,4,Investigating,2025-11-17
+406,"Thomas, Hendricks and Ramirez",Malware,Critical,Sales,420,86405,49,Investigating,2025-10-19
+407,"Johnson, Brady and Hughes",DDoS,Critical,IT,27,52340,12,Open,2025-08-27
+408,Black-Williams,Ransomware,Critical,IT,55,87806,62,Investigating,2025-07-14
+409,"Wilkinson, Singleton and Griffith",Phishing,High,HR,49,90364,38,Investigating,2025-08-23
+410,Morris PLC,Ransomware,High,Operations,215,50108,16,Resolved,2025-10-28
+411,"Thompson, Wilkerson and Bauer",Insider Threat,Medium,IT,24,82980,10,Open,2025-11-09
+412,Blevins-Garcia,DDoS,High,IT,449,73253,6,Open,2025-09-28
+413,"Perkins, Ortega and Davis",Insider Threat,Low,Sales,58,14079,57,Investigating,2026-01-24
+414,Campbell-Cox,DDoS,Medium,Finance,461,24176,30,Resolved,2026-04-08
+415,King-Robinson,Insider Threat,High,Operations,486,33206,25,Resolved,2026-01-02
+416,Warren-Edwards,DDoS,Low,IT,432,7773,22,Investigating,2026-01-21
+417,"Williams, Cooper and Burns",Phishing,Low,Operations,327,23122,42,Investigating,2025-06-16
+418,Lee Inc,Insider Threat,Medium,IT,246,15372,30,Resolved,2025-05-13
+419,"Graham, Moore and Mcclure",SQL Injection,Medium,Finance,486,7330,20,Investigating,2026-04-16
+420,Baker Group,Ransomware,High,Finance,298,68592,8,Investigating,2026-03-18
+421,"Rivera, Douglas and Anderson",Ransomware,Low,Sales,210,18206,67,Open,2025-11-02
+422,"Sellers, Jarvis and Zuniga",Ransomware,High,IT,247,91212,53,Open,2025-06-06
+423,Valencia-Green,Phishing,High,HR,320,21515,34,Resolved,2026-01-06
+424,Norton Group,Ransomware,Medium,IT,204,23541,47,Open,2026-03-31
+425,Lee-Pope,SQL Injection,Critical,Finance,207,4686,66,Resolved,2025-06-12
+426,Duncan and Sons,DDoS,High,HR,257,91262,47,Open,2025-07-16
+427,"Campbell, Barron and Daniel",SQL Injection,Medium,Sales,144,45357,19,Investigating,2025-06-29
+428,"Johnson, Gallagher and Parrish",DDoS,Critical,Finance,64,80110,42,Open,2026-02-06
+429,Cook-Chapman,Phishing,Critical,Finance,428,8353,20,Investigating,2025-05-18
+430,"Hall, Wood and Lawrence",Phishing,Critical,Operations,306,26703,5,Open,2025-07-25
+431,Johnson Ltd,Malware,High,Sales,14,42543,23,Resolved,2026-04-16
+432,Adams-Young,Ransomware,High,IT,258,52881,14,Open,2026-01-08
+433,"Atkins, Miles and Robles",Phishing,Low,Sales,192,16795,62,Open,2026-04-27
+434,Smith Ltd,Insider Threat,Low,IT,137,15642,54,Investigating,2026-04-12
+435,Mcfarland and Sons,Phishing,Medium,Finance,308,37356,41,Resolved,2025-11-28
+436,"Lee, Nichols and Lewis",DDoS,Medium,IT,178,20619,50,Resolved,2025-11-06
+437,Powell-Morris,Phishing,Critical,IT,313,12969,64,Resolved,2025-08-29
+438,Lynn-Jones,Malware,Low,Operations,441,41743,57,Open,2025-07-02
+439,Carpenter-Moran,DDoS,High,Finance,274,31002,65,Open,2025-07-05
+440,"Lloyd, Waller and Cowan",Insider Threat,Medium,IT,278,63132,47,Resolved,2025-11-07
+441,Cooper Ltd,Insider Threat,Medium,Finance,100,47347,34,Open,2025-11-21
+442,Morris LLC,Insider Threat,Critical,HR,33,18760,3,Investigating,2025-06-06
+443,Strickland-Taylor,Phishing,Critical,Operations,258,53453,14,Open,2025-08-26
+444,"Patterson, Walker and Jackson",Insider Threat,Medium,Finance,457,52050,64,Open,2025-09-08
+445,Erickson-Vaughn,Phishing,Critical,Sales,231,94739,11,Open,2025-09-21
+446,Harper-Estrada,SQL Injection,Medium,Sales,13,41680,42,Resolved,2025-06-11
+447,Good-Smith,DDoS,High,Sales,374,78146,6,Open,2025-10-11
+448,"Jacobson, Pacheco and Small",Malware,High,Operations,466,98859,40,Investigating,2025-07-09
+449,Arnold LLC,Ransomware,Critical,HR,203,92640,31,Resolved,2026-03-01
+450,"Cook, Olson and Huerta",Malware,Critical,IT,28,91304,33,Resolved,2025-05-07
+451,Acevedo-Huffman,Ransomware,Medium,Operations,33,21270,63,Open,2026-01-01
+452,Wilson Group,DDoS,Medium,Sales,175,86735,28,Open,2025-10-04
+453,Ray LLC,Malware,Critical,Operations,86,91763,55,Investigating,2025-12-29
+454,Smith-Cooley,Phishing,Low,IT,166,24715,24,Resolved,2025-06-01
+455,Lopez-Patel,Insider Threat,Medium,Sales,145,8902,68,Resolved,2025-12-03
+456,"Hanson, Mack and Miller",Phishing,Critical,Operations,362,74661,37,Investigating,2025-05-05
+457,Green Ltd,Malware,Critical,Sales,429,4012,18,Resolved,2025-06-11
+458,"Rivera, Clark and Garcia",Phishing,Low,IT,474,13527,69,Resolved,2026-03-06
+459,"Graham, Colon and Rodriguez",DDoS,Medium,HR,449,89035,64,Open,2025-07-08
+460,Hays PLC,Malware,Medium,Sales,466,98243,58,Investigating,2026-03-30
+461,"Casey, Garza and Hanna",SQL Injection,High,Finance,98,76109,29,Open,2025-10-19
+462,"Meyer, Hardin and Ferguson",SQL Injection,Low,IT,179,77810,7,Resolved,2025-07-03
+463,"Williams, Robles and Hughes",Phishing,High,Operations,477,63443,60,Investigating,2025-05-26
+464,"Evans, Thomas and Coleman",Insider Threat,Medium,Sales,369,33607,28,Investigating,2025-07-17
+465,Williams Group,SQL Injection,Medium,Finance,192,87496,67,Open,2025-08-17
+466,"Mcdaniel, Hughes and Owens",Insider Threat,Low,HR,293,11803,54,Investigating,2025-10-22
+467,Downs-Murray,Phishing,Critical,IT,379,19814,47,Open,2026-01-27
+468,Armstrong and Sons,Phishing,Medium,Sales,107,79798,6,Investigating,2025-11-11
+469,"Dean, Turner and Simmons",Ransomware,Low,HR,375,71145,9,Open,2025-06-22
+470,Weaver-Mosley,DDoS,High,Finance,300,96804,57,Open,2026-02-24
+471,"Howe, Collins and Alvarado",Malware,Low,Operations,340,51685,52,Investigating,2025-06-15
+472,Lewis Inc,SQL Injection,Critical,HR,183,45370,18,Investigating,2025-12-13
+473,West-Madden,Phishing,Critical,Finance,472,79811,52,Investigating,2026-01-10
+474,Barber-Smith,Malware,Medium,IT,370,24937,68,Resolved,2026-04-15
+475,Price-Molina,Ransomware,Critical,Sales,226,76922,35,Investigating,2026-04-11
+476,Rios-Boyd,Malware,High,IT,251,34986,28,Open,2025-06-19
+477,Smith-Williams,Malware,Critical,Operations,398,11721,37,Investigating,2026-04-25
+478,"Newman, Holland and Gonzalez",Ransomware,Low,Finance,113,29650,20,Investigating,2026-02-22
+479,"Barnes, Craig and Williams",SQL Injection,Low,Sales,185,9629,63,Open,2025-07-09
+480,"Anderson, Griffin and Clark",Insider Threat,High,IT,450,43692,10,Resolved,2026-01-10
+481,"Peterson, Rosales and Guerrero",Ransomware,High,Operations,12,91521,64,Investigating,2025-11-29
+482,"West, Morris and Garcia",Insider Threat,Medium,HR,9,18421,42,Resolved,2026-02-16
+483,Johnson Inc,Phishing,Medium,Operations,40,25724,24,Open,2026-01-26
+484,"Bond, Brock and Williams",Malware,Low,HR,161,64603,58,Investigating,2025-10-18
+485,Rivera Inc,SQL Injection,High,HR,453,55178,50,Resolved,2025-09-19
+486,Jackson-Cortez,Ransomware,High,Sales,66,93492,27,Investigating,2025-07-02
+487,Blair and Sons,Malware,Critical,Sales,219,57994,2,Resolved,2025-05-22
+488,"Mayer, Franklin and Wells",Insider Threat,Medium,Sales,148,46665,69,Investigating,2025-05-09
+489,Padilla PLC,Phishing,Critical,Sales,255,96065,66,Resolved,2025-09-22
+490,"Hill, Hood and Smith",Ransomware,High,IT,432,62138,45,Open,2025-05-28
+491,"George, House and Tran",Ransomware,High,Operations,286,61541,70,Open,2026-01-22
+492,"Martinez, Page and Hendricks",Ransomware,Medium,Finance,104,85702,49,Resolved,2025-11-22
+493,Hendrix PLC,DDoS,Medium,IT,125,82429,37,Open,2025-07-11
+494,Ellison-Moore,DDoS,Medium,Sales,75,17135,66,Open,2025-11-09
+495,Sherman-Grimes,Insider Threat,Critical,Operations,200,81970,64,Resolved,2026-03-01
+496,Stewart LLC,Phishing,Critical,Sales,110,32831,9,Open,2025-12-20
+497,"Spears, Ritter and Mathews",Insider Threat,High,Operations,267,50383,50,Investigating,2026-02-17
+498,Gardner-Walker,Malware,Low,Operations,496,34971,21,Open,2026-03-16
+499,Tran Inc,Insider Threat,Medium,Finance,215,4823,28,Resolved,2026-03-11
+500,Everett-Flores,Malware,Critical,Operations,125,80997,49,Open,2025-12-12
