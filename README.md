@@ -1,4 +1,4 @@
-# Cybersecurity Incident Analysis Dashboard
+# Cybersecurity Incident Analysis
 
 ## Project Overview
 This project analyzes cybersecurity incidents using Python, SQL, and Power BI.
