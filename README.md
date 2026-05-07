@@ -71,7 +71,8 @@ cybersecurity-incident-analysis/
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/Cybersecurity.png)
+
 
 ---
 
